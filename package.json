@@ -1,0 +1,19 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "james test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jddrew7/myproject"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
